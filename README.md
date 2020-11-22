@@ -1,6 +1,6 @@
 # DAT250-exp-5
 
-This experiment was dificult but here are the experiments i have done. I though i clound do from scratch but was dificullt so i decided to use the code that the web side ofered. 
+This experiment was dificult because i though i could do from scratch but was dificullt so i decided to use the code that the web side ofered. in that way was really easy to do the tutorial.
 
 
 Experiment 1 :https://github.com/Zuleta84/Springdemo
